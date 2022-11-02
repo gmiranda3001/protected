@@ -1,0 +1,7 @@
+{
+  "name": "Protected_Prueba_003",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
